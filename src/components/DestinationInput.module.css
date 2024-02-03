@@ -1,0 +1,19 @@
+.destInput {
+  width: 70%;
+  border-radius: 5px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.btnDestination {
+  border-radius: 5px;
+  background-color: rgb(119, 62, 108);
+  color: white;
+}
+
+.list-group-item {
+  color: white;
+}
